@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryButton">#AEDC81</color>
+    <color name="green_primary">#6CC51D</color>
+    <color name="background_color">#F4F5F9</color>
+    <color name="my_dark_primary">#251585</color>
+    <color name="a0a0a0">#A0A0A0</color>
+    <color name="light_gray">#E6E3E3</color>
+    <color name="gray">#A0A0A0</color>
+    <color name="blue">#2B5AE9</color>
+    <color name="shape_bg">#FFFFFF</color> <!-- white background -->
+    <color name="shape_stroke">#CCCCCC</color> <!-- light gray border -->
+</resources>

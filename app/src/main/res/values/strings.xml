@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Shopzy</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="buy_grocery">Buy Grocery</string>
+    <string name="welcome">Welcome</string>
+    <string name="back">Back</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="sign_up">Sign up</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+    <string name="phone">Phone</string>
+    <string name="signup">Signup</string>
+    <string name="login_btn">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter">filter</string>
+    <string name="categories">Categories</string>
+    <string name="create_account">Create account</string>
+    <string name="quickly_create_account">Quickly create account</string>
+    <string name="price_range">Price Range</string>
+    <string name="product_details">Product Details</string>
+    <string name="organic_mountain_works_as_a_seller_for_many_organic_growers_of_organic_lemons_organic_lemons_are_easy_to_spot_in_your_produce_aisle_they_are_just_like_regular_lemons_but_they_will_usually_have_a_few_more_scars_on_the_outside_of_the_lemon_skin_organic_lemons_are_considered_to_be_the_world_s_finest_lemon_for_juicing">Organic Mountain works as a seller for many organic growers of organic lemons. Organic lemons are easy to spot in your produce aisle. They are just like regular lemons, but they will usually have a few more scars on the outside of the lemon skin. Organic lemons are considered to be the world\'s finest lemon for juicing</string>
+    <string name="search_keywords">Search keywords...</string>
+    <string name="categories_list">Categories</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="more_feature">more_feature</string>
+    <string name="menu_icon">menu_icon</string>
+    <string name="apply_filter">Apply filter</string>
+    <string name="discount">Discount</string>
+    <string name="others">Others</string>
+
+
+</resources>

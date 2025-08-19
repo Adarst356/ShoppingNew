@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460699250399",
+    "project_id": "notification-246b7",
+    "storage_bucket": "notification-246b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460699250399:android:cd1782940f81be765d436a",
+        "android_client_info": {
+          "package_name": "com.devdroid.shoppingnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43QxHdvMzstQxCyni_C-AARckUCL-sGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
